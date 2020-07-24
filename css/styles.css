@@ -126,6 +126,48 @@ hr{
   margin: 2% 0;
 }
 
+.project-btn {
+	-moz-box-shadow: 0 1px 0 0 #f0f7fa;
+	-webkit-box-shadow: 0 1px 0 0 #f0f7fa;
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+text-indent:0;
+	border:1px solid #66bfbe;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:41px;
+	line-height:41px;
+width:147px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0 -1px 0 #5b6178;
+}
+
+.project-btn:hover {
+	background-color: #27496d;
+}
+
+.project-btn:active {
+	position:relative;
+	top:1px;
+}
+
 .proj-btn{
   justify-content: center;
   align-items: center;
