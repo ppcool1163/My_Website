@@ -118,13 +118,14 @@ hr{
 }
 
 .project{
-  width: 70%;
+  width: 62%;
   margin:  0 auto;
 }
 
 .project-col{
   margin: 2% 0;
 }
+
 
 .project-btn {
 	-moz-box-shadow: 0 1px 0 0 #f0f7fa;
@@ -158,15 +159,14 @@ width:147px;
 	text-align:center;
 	text-shadow:0 -1px 0 #5b6178;
 }
-
 .project-btn:hover {
 	background-color: #27496d;
 }
-
 .project-btn:active {
 	position:relative;
 	top:1px;
 }
+
 
 .proj-btn{
   justify-content: center;
@@ -259,9 +259,9 @@ width:147px;
       font-size: 0.9rem
     }
     .project{
-      width: 70%;
+      width: 60%;
     }
-    
+
     .footer-link{
       margin: 0 10px;
     }
